@@ -32,6 +32,7 @@
 
 <h3 align="left" >Connect with me:</h3>
 <p align="left">
+<a href="mailto:pavansaxena0604@gmauil.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="pavan_saxena_" height="30" width="40" /></a>
 <a href="https://twitter.com/pavan_saxena_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pavan_saxena_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pavan-saxena-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan-saxena-" height="30" width="40" /></a>
 <a href="https://instagram.com/pavan.saxena_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pavan.saxena_" height="30" width="40" /></a>
